@@ -1,0 +1,38 @@
+body {
+    background-color: grey;
+}
+table,td,th{
+  border:2px solid blue;
+}
+table{
+  border-collapse: collapse;
+  width:350px;
+}
+td{
+  height: 100px;
+  vertical-align: middle;
+}
+marquee {
+  color:white;
+  background-color: black;
+}
+details {
+  background-image: url(/td1.jpg)
+}
+ol{
+  background-image: url(/bcg.jpg)
+}
+h1{
+  text-align: center;
+  text-shadow: 2px 2px green;
+  background-color: skyblue;
+}
+p7{
+  text-align: center;
+}
+th{
+  background-color: blue;
+}
+address{
+  text-align: center;
+}
